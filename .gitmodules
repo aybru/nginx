@@ -1,0 +1,6 @@
+[submodule "build/zlib"]
+	path = build/zlib
+	url = git@github.com:madler/zlib.git
+[submodule "build/boringssl"]
+	path = build/boringssl
+	url = git@github.com:google/boringssl.git
